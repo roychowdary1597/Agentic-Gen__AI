@@ -64,5 +64,3 @@ Feel free to open issues or submit pull requests.
 If this repository helps you, consider giving it a **star**!
 
 ---
-
-If you want, I can also generate a **short version**, **more technical version**, or **a version styled for a course or company project**.
