@@ -1,7 +1,3 @@
-Below is a **simple, clean, *generic*** README you can use for *any* repository that contains projects related to **Generative AI** and **Agentic AI** across multiple modules and frameworks.
-
----
-
 # 🚀 Generative AI & Agentic AI Projects Repository
 
 This repository contains all essential projects, modules, and resources for learning and building with **Generative AI**, **Large Language Models (LLMs)**, and **Agentic AI systems**.
